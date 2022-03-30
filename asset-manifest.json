@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/varunsdcet/React.git/static/css/main.23a856d1.css",
+    "main.js": "/varunsdcet/React.git/static/js/main.8c1e1046.js",
+    "static/js/787.f852989d.chunk.js": "/varunsdcet/React.git/static/js/787.f852989d.chunk.js",
+    "static/media/DMSans-Regular.ttf": "/varunsdcet/React.git/static/media/DMSans-Regular.067ebd7ed3c947d82dc4.ttf",
+    "static/media/DMSans-Bold.ttf": "/varunsdcet/React.git/static/media/DMSans-Bold.da49214b2d88abca155c.ttf",
+    "index.html": "/varunsdcet/React.git/index.html",
+    "main.23a856d1.css.map": "/varunsdcet/React.git/static/css/main.23a856d1.css.map",
+    "main.8c1e1046.js.map": "/varunsdcet/React.git/static/js/main.8c1e1046.js.map",
+    "787.f852989d.chunk.js.map": "/varunsdcet/React.git/static/js/787.f852989d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a856d1.css",
+    "static/js/main.8c1e1046.js"
+  ]
+}
